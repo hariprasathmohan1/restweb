@@ -390,12 +390,7 @@ menu.css
     position: relative;
 }
 ```
-
 ## OUTPUT:
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-03-14 141353.png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-03-14 141431.png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-03-14 141500.png
-c:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-03-14 141518.png
-
+![alt text](<Screenshot 2026-03-14 141353.png>) ![alt text](<Screenshot 2026-03-14 141431.png>) ![alt text](<Screenshot 2026-03-14 141500.png>) ![alt text](<Screenshot 2026-03-14 141518.png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
